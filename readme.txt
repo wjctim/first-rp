@@ -5,3 +5,4 @@ Git tracks changes.
 Git is good.
 Hello git.
 Branch test.
+Branch too.
