@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ford\\Escape\\": "src/Games/Wzry"
+            "Games\\Wzry\\": "src/Games/Wzry"
         }
     }
 }
