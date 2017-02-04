@@ -1,6 +1,6 @@
 <?php
  
-namespace Games;
+namespace Games\Wzry;
  
 class Wzry
 {
@@ -9,3 +9,6 @@ class Wzry
         echo "This is Wzry!<br />";
     }
 }
+
+
+?>
